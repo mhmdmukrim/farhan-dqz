@@ -9,7 +9,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://gifs.alphacoders.com/gifs/view/140369" alt="GIF" width="200" height="200"/>
+<img src="https://gifs.alphacoders.com/gifs/view/140369.gif" alt="GIF" width="300" height="300"/>
 </p>
  <p align="center">
 <a href="#"><img title="MHMDMUKRIM" src="https://img.shields.io/badge/MHMDMUKRIM-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -26,14 +26,14 @@ Project created by <a href="https://github.com/mhmdmukrim">MHMDMUKRIM</a> to mak
     <br> 
 </p>
 
-![Profile Views](https://github.com/mhmdmukrim/Mwol/watchers)
+![Profile Views](https://github.com/mhmdmukrim/bot/watchers)
 
 ----
 <p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-dqz&show_icons=true&theme=dark&locale=en&layout=compact" alt="MHMDMUKRIM" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MHMD-MUKRIM&show_icons=true&theme=dark&locale=en&layout=compact" alt="MHMDMUKRIM" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-dqz&show_icons=true&theme=dark&locale=en" alt="farhan-dqz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MHMD-MUKRIM&show_icons=true&theme=dark&locale=en" alt="MHMD-MUKRIM" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxirfanx&theme=dark" alt="farhan-dqz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxirfanx&theme=dark" alt="MHMD-MUKRIM" /></p>
 </p>
  
